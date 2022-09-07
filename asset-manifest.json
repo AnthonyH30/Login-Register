@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Login-Register/static/js/main.96efa922.js",
+    "main.js": "/Login-Register/static/js/main.03e96036.js",
     "index.html": "/Login-Register/index.html",
-    "main.96efa922.js.map": "/Login-Register/static/js/main.96efa922.js.map"
+    "main.03e96036.js.map": "/Login-Register/static/js/main.03e96036.js.map"
   },
   "entrypoints": [
-    "static/js/main.96efa922.js"
+    "static/js/main.03e96036.js"
   ]
 }
